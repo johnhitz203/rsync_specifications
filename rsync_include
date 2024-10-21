@@ -1,0 +1,5 @@
+# rsync_include
+#
+# A list of files to include when backing up home directories using rsync.
+#
+# Author: John Hitz <rsync-home-
